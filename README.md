@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 # Сертификаты:
 
-* Stepik. [Программирование на Python](https://stepik.org/cert/1528949)
+* Stepik. [Программирование на Python](https://github.com/RuslanGadzhiev/RuslanGadzhiev/blob/main/stepik-certificate-67-8b684d3.pdf)
